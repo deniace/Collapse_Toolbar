@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--    Created by Deni Supriyatna (deni ace) on 23 - 05 - 2020.-->
+<!--    Email : denisupriyatna01@gmail.com-->
+
+<resources>
+    <dimen name="app_bar_height">278dp</dimen>
+    <!-- elevation for Detail toolbar - used to convert to pixels when hiding/showing -->
+    <!-- elevation for Detail toolbar - digunakan ketika mengkonversi pizel hiding/showing -->
+    <dimen name="toolbar_elevation">5dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_bottom_padding">72dp</dimen>
+
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_extra_small">4dp</dimen>
+
+    <dimen name="item_image_height">95dp</dimen>
+
+    <!-- Card View-->
+    <dimen name="card_side_margin">12dp</dimen>
+    <dimen name="card_bottom_margin">26dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_corner_radiud">12dp</dimen>
+
+    <!-- List Header Margin-->
+    <dimen name="header_margin">24dp</dimen>
+
+    <!-- minimum height of detail page so that the collapsing toolbar can be shown on every page -->
+    <dimen name="description_min_height">555dp</dimen>
+</resources>

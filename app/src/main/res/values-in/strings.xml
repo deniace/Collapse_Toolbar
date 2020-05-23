@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Created by Deni Supriyatna (deni ace) on 23 - 05 - 2020.-->
+    <!--    Email : denisupriyatna01@gmail.com-->
+
+    <string name="app_name">Collapse Toolbar</string>
+    <string name="image_content_description" translation_description="Deskripsi konten untuk header / gambar yang muncul ditempat paling atas konten.">Detail Gambar</string>
+    <string name="menu_item_share" translation_description="The label for the Share menu item">Bagikan</string>
+
+
+    <string name="text_large">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit turpis et velit interdum varius. Donec quis eleifend erat. Vivamus cursus feugiat felis, porta vestibulum nisl bibendum non. Sed eu mauris egestas, mollis ex non, posuere tortor. Nam interdum elit eu metus vulputate, a scelerisque velit suscipit. Quisque luctus, dolor nec commodo blandit, ipsum libero luctus enim, eu interdum turpis erat at eros. Maecenas ligula nisi, sollicitudin quis velit a, lobortis imperdiet felis. Curabitur accumsan sodales lorem eget pulvinar. Mauris varius sit amet nunc tincidunt porttitor. Integer feugiat dignissim sem, sed aliquam nisl lobortis id. Nam vestibulum nulla porttitor sem vestibulum, nec laoreet metus rutrum. Nam mattis iaculis mi, a suscipit erat vestibulum sit amet. Donec eget placerat ipsum, tristique blandit purus. Nullam at viverra odio. Vestibulum vitae massa et neque ornare auctor id at nunc.
+
+Morbi purus tortor, viverra et feugiat a, vestibulum commodo enim. Nam quis porttitor felis, eget auctor tortor. Mauris rhoncus mauris sed magna pulvinar, laoreet faucibus lorem sagittis. Phasellus non convallis erat. Curabitur eleifend nulla ex, vitae dapibus nisi ornare at. Nam pharetra, ligula vitae convallis molestie, nulla urna porttitor enim, et dignissim nibh ligula imperdiet leo. Vivamus venenatis sem sodales, sollicitudin quam quis, feugiat ante. Vivamus vitae metus eget erat venenatis vehicula nec eu leo. Nulla facilisi. Cras commodo feugiat erat quis mattis. Sed scelerisque, eros vel suscipit laoreet, enim dui venenatis metus, non iaculis leo dui nec leo. Ut et odio id lorem maximus aliquam vel at nulla.
+
+Donec scelerisque augue ac orci mollis, sit amet bibendum urna luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed lacinia metus at diam pellentesque, a rutrum sapien dapibus. Fusce elementum, erat sed venenatis suscipit, magna turpis blandit lectus, eu suscipit lacus mauris ut ligula. Vivamus finibus turpis vestibulum sem condimentum tempor a sed turpis. Nulla blandit egestas sem nec elementum. Phasellus venenatis sem ac arcu aliquam dapibus id ac augue. Donec id est blandit, dapibus quam quis, rutrum nunc. Ut et vestibulum purus. Aliquam ultrices velit nisi, egestas gravida velit porttitor non. Nunc tristique rutrum bibendum. Maecenas vulputate diam laoreet orci varius, quis dapibus nisl gravida. Aenean a placerat eros. Nam ac massa aliquam, venenatis eros non, pretium nunc. Fusce pretium bibendum sollicitudin.
+
+Donec vitae enim enim. In massa nisl, volutpat et imperdiet sit amet, vehicula feugiat tortor. Aliquam a tortor et dolor condimentum posuere. Donec arcu nisl, tincidunt id placerat in, auctor eget mi. Suspendisse eu tortor sit amet massa accumsan sagittis sed at ex. Morbi ipsum purus, blandit eget finibus ut, eleifend eu ipsum. Vestibulum id tristique dui. Cras facilisis consequat risus. Phasellus eu mauris in purus tincidunt tempor. Vivamus velit ante, sodales at lectus eu, ullamcorper pharetra dui. Nullam pharetra mattis magna, iaculis luctus risus.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris vel aliquet ante, vel posuere ligula. Phasellus eu mi non nibh blandit vehicula. Etiam ligula elit, facilisis eget mi cursus, egestas pellentesque eros. Integer porttitor, lorem ac pretium laoreet, lorem ligula vehicula nunc, sed eleifend risus metus in nibh. Nam vel nisl turpis. Morbi ipsum ex, tempus sed mattis id, ultrices a lectus. Quisque elit ante, euismod efficitur fringilla vel, placerat a purus. Vivamus in augue elementum, vestibulum nisl id, tristique diam.</string>
+    <string name="judul_detail">Ini Judul</string>
+    <string name="more">Selebihnya</string>
+    <string name="logout">Logout</string>
+</resources>
